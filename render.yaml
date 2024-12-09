@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: math
+    name:H1Fmizuno-youtube
     env: python
     region: Oregon
     plan: free
